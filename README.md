@@ -83,24 +83,7 @@ vulnerabilities will be promptly addressed.
     <li><strong>Development Environment:</strong> Visual Studio Code (VS Code)</li>
     <li><strong>Web Server:</strong> Apache / Laravel Development Server</li>
 
-<br>
-<img width="1972" height="962" alt="1" src="https://github.com/user-attachments/assets/3b993762-6211-4e16-a7ec-91fc1a298cd6" />
-<br>
-<img width="1972" height="962" alt="2" src="https://github.com/user-attachments/assets/92f859e7-6611-4386-8a15-8ec937a1aa0a" />
-<br>
-<img width="1972" height="962" alt="3" src="https://github.com/user-attachments/assets/f3873c7e-3fc8-46e7-a80d-1f6f6a64c83c" />
-<br>
-<img width="1910" height="3195" alt="4" src="https://github.com/user-attachments/assets/51f65a8f-c08d-41af-a3c1-87731d7639e5" />
-<br>
-<img width="1910" height="3216" alt="5 dash" src="https://github.com/user-attachments/assets/a25a9581-fa65-440e-9107-47ed9392b27d" />
-<br>
-<img width="1910" height="3683" alt="6" src="https://github.com/user-attachments/assets/48747040-761b-44c1-90c1-4233b1292328" />
-<br>
-<img width="1910" height="2270" alt="8" src="https://github.com/user-attachments/assets/d3766070-2361-43e5-aae5-f94841662788" />
-<br>
-<img width="1876" height="941" alt="last" src="https://github.com/user-attachments/assets/ff53a4c2-3e7c-4c32-bbf8-33275c300766" />
-<br>
-<img width="1910" height="1866" alt="11" src="https://github.com/user-attachments/assets/3253bf50-a759-4f9d-8ad2-24deb98e209e" />
+
 
 
 
